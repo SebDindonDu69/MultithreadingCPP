@@ -1,0 +1,4 @@
+﻿  start.cpp
+c:\users\seb\documents\scolarite\3- cours epsi\i4\cpp multithreading\projet\starter-kit-redist-v1.12\project\start.cpp(81): warning C4100: 'argv' : paramètre formel non référencé
+c:\users\seb\documents\scolarite\3- cours epsi\i4\cpp multithreading\projet\starter-kit-redist-v1.12\project\start.cpp(81): warning C4100: 'argc' : paramètre formel non référencé
+  project.vcxproj -> C:\Users\Seb\Documents\SCOLARITE\3- COURS EPSI\I4\CPP MULTITHREADING\PROJET\starter-kit-redist-v1.12\output\project-Win32-Debug-v140.exe

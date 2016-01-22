@@ -1,0 +1,6 @@
+﻿  stdafx.cpp
+  sandbox.cpp
+c:\users\seb\documents\scolarite\3- cours epsi\i4\cpp multithreading\projet\starter-kit-redist-v1.12\sandbox\sandbox.cpp(12): warning C4100: 'argv' : paramètre formel non référencé
+c:\users\seb\documents\scolarite\3- cours epsi\i4\cpp multithreading\projet\starter-kit-redist-v1.12\sandbox\sandbox.cpp(12): warning C4100: 'argc' : paramètre formel non référencé
+  Génération de code en cours...
+  sandbox.vcxproj -> C:\Users\Seb\Documents\SCOLARITE\3- COURS EPSI\I4\CPP MULTITHREADING\PROJET\starter-kit-redist-v1.12\output\sandbox-Win32-Debug-v140.exe
