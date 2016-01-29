@@ -18,7 +18,7 @@ int main( int argc, const char *argv[] ) {
 	sandbox();
 
 	std::cout << std::endl;
-	std::cout << "** Goodbye" << std::endl;
+	std::cout << "** Goodbye les filles" << std::endl;
 	std::cin.get();
 	return 0;
 }
